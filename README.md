@@ -1,5 +1,6 @@
-#My Netflix Clone: A Project Built Using React, Redux Toolkit, Firebase, Styled Components, Axios, Node.js, Express and MongoDB.
-Steps to Launch My Application.
+My Netflix Clone: A Project Built Using React, Redux Toolkit, Firebase, Styled Components, Axios, Node.js, Express and MongoDB.
+
+##Steps to Launch My Application.
 
 #I installed the necessary React dependencies.
 #I set up the required Node dependencies.
